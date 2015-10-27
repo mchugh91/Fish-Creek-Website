@@ -1,0 +1,56 @@
+.headings {
+	text-align: center;
+	color: red;
+	font: normal 3em arial
+}
+
+a {
+	color: #2E8B57;
+}
+
+.footer { 
+	background-color: #E0FFFF;
+	position:absolute;
+    bottom: 0;
+	width: 100%;
+}
+
+#details {
+	font-size: 1.1em;
+	position: absolute;
+    bottom: 70px;
+	left: 40px;
+}
+ul{
+	font-size: 1.3em;
+	position: relative;
+    top: 40px; 
+	width: 80%;
+    margin:auto;
+	list-style: square;
+}
+dl {
+    position: relative;
+    top: 40px;
+    margin: auto;
+    width: 800px;
+   
+}
+dt {
+	font-size: 1.3em;
+	font-weight: bold; 
+	text-decoration: underline;
+}
+
+dd {
+	font-size: 1.3em;
+}
+
+table {
+	margin: auto;
+	font: normal 1.8em arial;
+	border-spacing: 50px 10px;
+	border: 1px solid green; 
+	border-radius: 15px; 
+	
+}
